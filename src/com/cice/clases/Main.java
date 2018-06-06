@@ -8,7 +8,6 @@ public class Main {
 	// write your code here
 
         //creamos un objeto de la clase Coche
-
         Coche coche=new Coche();
         coche.setPotencia(40);
         coche.arrancar();
@@ -23,6 +22,9 @@ public class Main {
         coche3.setPotencia(90);
 
         //hsta aqui los objetos coche, coche2, coche3 contienen el puntero de memoria.
+
+
+
 
     }
 }
